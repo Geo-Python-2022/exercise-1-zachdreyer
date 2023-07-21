@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/S81zipoj)
 _Dear students! Please also fill in the **Geo-Python/AutoGIS pre-course survey: https://elomake.helsinki.fi/lomakkeet/119154/lomake.html**.  Your responses will help shape how we teach this fall._
 
 # Exercise 1: Cooking up some Python
